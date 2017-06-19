@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: Homwork1, Configuration: Debug Any CPU ------
+1>  Homwork1 -> c:\users\wattsdi01\documents\visual studio 2015\Projects\Homwork1\Homwork1\bin\Debug\Homwork1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

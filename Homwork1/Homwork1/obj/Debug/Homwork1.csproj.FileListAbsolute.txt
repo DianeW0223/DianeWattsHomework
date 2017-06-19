@@ -1,0 +1,6 @@
+c:\users\wattsdi01\documents\visual studio 2015\Projects\Homwork1\Homwork1\bin\Debug\Homwork1.exe.config
+c:\users\wattsdi01\documents\visual studio 2015\Projects\Homwork1\Homwork1\obj\Debug\Homwork1.csprojResolveAssemblyReference.cache
+c:\users\wattsdi01\documents\visual studio 2015\Projects\Homwork1\Homwork1\bin\Debug\Homwork1.exe
+c:\users\wattsdi01\documents\visual studio 2015\Projects\Homwork1\Homwork1\bin\Debug\Homwork1.pdb
+c:\users\wattsdi01\documents\visual studio 2015\Projects\Homwork1\Homwork1\obj\Debug\Homwork1.exe
+c:\users\wattsdi01\documents\visual studio 2015\Projects\Homwork1\Homwork1\obj\Debug\Homwork1.pdb
